@@ -1,0 +1,12 @@
+{
+  "systemParams": "linux-x64-108",
+  "modulesFolders": [
+    "web"
+  ],
+  "flags": [],
+  "linkedModules": [],
+  "topLevelPatterns": [],
+  "lockfileEntries": {},
+  "files": [],
+  "artifacts": {}
+}
